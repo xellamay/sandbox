@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05dd72b7-f269-41c1-9f87-cf092ea72fd8" name="Changes" comment="" />
+    <list default="true" id="05dd72b7-f269-41c1-9f87-cf092ea72fd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QFMWw8g191i5RS8PatdhqXfysk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,6 +43,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/xella/Documents/projects/sandbox",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\xella\\Documents\\projects\\sandbox\\my-app\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684944911556</updated>
-      <workItem from="1684944912867" duration="2080000" />
+      <workItem from="1684944912867" duration="2412000" />
     </task>
     <servers />
   </component>
